@@ -1,0 +1,5 @@
+name: Custom Resource
+type: module
+description: Resourceto expose data to other sites or tools.
+core: 8.x
+package: Custom
